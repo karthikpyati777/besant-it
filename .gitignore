@@ -1,0 +1,8 @@
+# Ignore logs
+*.log
+
+# Ignore environment file
+.env
+
+# Ignore build folder
+target/
